@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento de Compras
 
 ## Descrição
-Este projeto consiste em um Sistema de Gerenciamento de Compras, focado no registro e organização das transações efetuadas por clientes (usuários) por meio de cartões de crédito.
+Desenvolvido para a disciplina de Estrutura de Dados Avançada, este projeto consiste em um Sistema de Gerenciamento de Compras, focado no registro e organização das transações efetuadas por clientes (usuários) por meio de cartões de crédito.
 
 ## Funcionalidades
 O sistema oferece as seguintes funcionalidades:
